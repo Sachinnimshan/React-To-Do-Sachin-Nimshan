@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-To-Do-Sachin-Nimshan/static/css/main.826e2a03.chunk.css",
+    "main.js": "/React-To-Do-Sachin-Nimshan/static/js/main.acfa0286.chunk.js",
+    "main.js.map": "/React-To-Do-Sachin-Nimshan/static/js/main.acfa0286.chunk.js.map",
+    "runtime-main.js": "/React-To-Do-Sachin-Nimshan/static/js/runtime-main.9635a6c8.js",
+    "runtime-main.js.map": "/React-To-Do-Sachin-Nimshan/static/js/runtime-main.9635a6c8.js.map",
+    "static/js/2.a1bb2094.chunk.js": "/React-To-Do-Sachin-Nimshan/static/js/2.a1bb2094.chunk.js",
+    "static/js/2.a1bb2094.chunk.js.map": "/React-To-Do-Sachin-Nimshan/static/js/2.a1bb2094.chunk.js.map",
+    "index.html": "/React-To-Do-Sachin-Nimshan/index.html",
+    "precache-manifest.bd8b2f9da6ea76329529ab1e93f2ae52.js": "/React-To-Do-Sachin-Nimshan/precache-manifest.bd8b2f9da6ea76329529ab1e93f2ae52.js",
+    "service-worker.js": "/React-To-Do-Sachin-Nimshan/service-worker.js",
+    "static/css/main.826e2a03.chunk.css.map": "/React-To-Do-Sachin-Nimshan/static/css/main.826e2a03.chunk.css.map",
+    "static/js/2.a1bb2094.chunk.js.LICENSE.txt": "/React-To-Do-Sachin-Nimshan/static/js/2.a1bb2094.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-To-Do-Sachin-Nimshan/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9635a6c8.js",
+    "static/js/2.a1bb2094.chunk.js",
+    "static/css/main.826e2a03.chunk.css",
+    "static/js/main.acfa0286.chunk.js"
+  ]
+}
